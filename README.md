@@ -1,0 +1,1 @@
+# get-coincheck-api-value
